@@ -1,0 +1,13 @@
+node_modules
+
+# Remove db for deployment
+dump.sql
+
+# Folder for audio/photo 
+files
+
+# Move postgres data to production
+pgdata
+
+# AWS-server-key
+slack-clone.pem
